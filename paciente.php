@@ -2,7 +2,6 @@
 <html lang="en">
     <?php include('include/head.php'); ?>
     <body>
-
         <?php include('include/nav.php'); ?>
 
         <div class="contenedor">
@@ -31,31 +30,19 @@
                                 </div>
                                 <p>
                                     <input type="checkbox" id="test" />
-                                    <label for="test">No confirmado</label>
+                                    <label for="test">En tratamiento</label>
                                 </p>
                                 <p>
                                     <input type="checkbox" id="tes" />
-                                    <label for="tes">Confirmado</label>
+                                    <label for="tes">Por confirmar</label>
                                 </p>
                                 <p>
                                     <input type="checkbox" id="test5" />
-                                    <label for="test5">En sala de espera</label>
-                                </p>
-                                <p>
-                                    <input type="checkbox" id="test" />
-                                    <label for="test">Atendiéndose</label>
-                                </p>
-                                <p>
-                                    <input type="checkbox" id="tes" />
-                                    <label for="tes">Atendido</label>
+                                    <label for="test5">Tratamiento finalizado</label>
                                 </p>
                                 <p>
                                     <input type="checkbox" id="test5" />
                                     <label for="test5">No asiste</label>
-                                </p>
-                                <p>
-                                    <input type="checkbox" id="test5" />
-                                    <label for="test5">Reprogramado</label>
                                 </p>
                                 <p>
                                     <input type="checkbox" id="test5" />
@@ -72,10 +59,10 @@
                         <div class="col l12 m12">
                             <div class="row">
                                 <div class="col l6 m6">
-                                    <input type="date" class="datepicker dateAgenda">
+                                    <p>Citas</p>
                                 </div>
                                 <div class="col l3 m3">
-                                    <a href="#" class="nuevaCitaAgenda">Nueva Cita</a>  
+                                    <a href="#" class="nuevaCitaAgenda">Nuevo paciente</a>  
                                 </div>
                                 <div class="col l3 m3">
                                     <a href="#" class="imprimirAgenda">Imprimir</a>
@@ -85,11 +72,10 @@
                         <table class="striped highlight" >
                             <thead>
                                 <tr>
-                                    <th data-field="id">Hora</th>
-                                    <th data-field="name">Paciente</th>
-                                    <th data-field="price">Doctor</th>
+                                    <th data-field="id">N° Tratamiento</th>
+                                    <th data-field="name">Dentista</th>
+                                    <th data-field="price">Fecha</th>
                                     <th data-field="price">Estado</th>
-                                    <th data-field="price">Situación</th>
                                 </tr>
                             </thead>
 

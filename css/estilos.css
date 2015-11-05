@@ -30,11 +30,11 @@ nav{
     position: relative;
 }
 .modalLogin {
-    padding: 20px;
+    padding         : 20px;
     background-color: #454D6B;
-    color: #ffffff !important;
-    transform: translateY(20%);
-}
+    color           : #ffffff !important;
+    transform       : translateY(20%);
+    }
 
 .modalLogin img {
     height: 70px;
@@ -51,11 +51,11 @@ nav{
     margin-top: 20px;
 }
 .modalLogin .divBoton button {
-    color: #ffffff !important;
-    background-color: #37AC9D;
-    padding: 15px;
-        border: none;
-        transition:0.7s;
+        color           : #ffffff !important;
+        background-color: #37AC9D;
+        padding         : 15px;
+        border          : none;
+        transition      :0.7s;
 }
 .modalLogin .divBoton button:hover {
     background-color: #FFFFFF;
