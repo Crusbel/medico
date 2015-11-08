@@ -62,7 +62,7 @@
                                     <p>Citas</p>
                                 </div>
                                 <div class="col l3 m3">
-                                    <a href="#" class="nuevaCitaAgenda">Nuevo paciente</a>  
+                                    <a href="paciente_nuevo.php" class="nuevaCitaAgenda">Nuevo paciente</a>  
                                 </div>
                                 <div class="col l3 m3">
                                     <a href="#" class="imprimirAgenda">Imprimir</a>

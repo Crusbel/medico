@@ -20,24 +20,24 @@
                             </div>
                         </div>
                         <div class="row">
-                            <ul>
-                                <li>Citas</li>
-                                <li>Datos personales</li>
-                                <li>Archivos</li>
-                            </ul>
+                            <div class="collection">
+                                <a href="afiliadosMiembros.html" class="collection-item"><i class="fa fa-users"></i> Citas</a>
+                                <a href="#!" class="collection-item"><i class="fa fa-user-secret"></i> Datos personales</a>
+                                <a href="#!" class="collection-item"><i class="fa fa-cogs"></i> Archivos</a>
+                              </div>
                         </div>
                         <div class="row">
-                            <ul>
-                                <li>Tratamientos</li>
-                                <li>Evoluciones</li>
-                                <li>Odontograma</li>
-                                <li>Documentos Clínicos</li>
-                            </ul>
+                            <div class="collection">
+                                <a href="afiliadosMiembros.html" class="collection-item"><i class="fa fa-users"></i> Tratamientos</a>
+                                <a href="#!" class="collection-item"><i class="fa fa-user-secret"></i> Evoluciones</a>
+                                <a href="#!" class="collection-item"><i class="fa fa-cogs"></i> Odontograma</a>
+                                <a href="#!" class="collection-item"><i class="fa fa-table"></i> Documentos Clínicos</a>
+                              </div>
                         </div>
                         <div class="row">
-                            <ul>
-                                <li>Facturación</li>
-                            </ul>
+                            <div class="collection">
+                                <a href="afiliadosMiembros.html" class="collection-item"><i class="fa fa-users"></i> Facturación</a>
+                              </div>
                         </div>
                     </div>
                 </div>
