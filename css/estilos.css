@@ -230,3 +230,13 @@ a.nuevaCitaAgenda {
 }
 
 /***/
+
+.diente {
+    width: 11%;
+    display: inline-block;
+}
+.fractura {
+    background: url('../img/diente_fractura.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
