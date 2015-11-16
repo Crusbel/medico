@@ -1388,6 +1388,61 @@
 
                             </div>
 
+                            <div class="row">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th data-field="id">FDI</th>
+                                            <th data-field="name">Situación</th>
+                                            <th data-field="price">M</th>
+                                            <th data-field="price">D</th>
+                                            <th data-field="price">O</th>
+                                            <th data-field="price">P</th>
+                                            <th data-field="price">L</th>
+                                            <th data-field="price">V</th>
+                                            <th data-field="price">Observación</th>
+                                            <th data-field="price">Eliminar</th>
+                                        </tr>
+                                    </thead>
+
+                                    <tbody>
+                                    <form>
+                                        <tr>
+                                            <td>18</td>
+                                            <td><input id="dienteSituacion18" type="text" class="validate"></td>
+                                            <td><p>
+                                                    <input type="checkbox" id="dienteMesial18" />
+                                                    <label for="dienteMesial18"></label>
+                                                </p></td>
+                                            <td><p>
+                                                    <input type="checkbox" id="dienteDistal18" />
+                                                    <label for="dienteDistal18"></label>
+                                                </p></td>
+                                            <td><p>
+                                                    <input type="checkbox" id="dienteOclusal18" />
+                                                    <label for="dienteOclusal18"></label>
+                                                </p></td>
+                                            <td><p>
+                                                    <input type="checkbox" id="dientePalatina18" />
+                                                    <label for="dientePalatina18"></label>
+                                                </p></td>
+                                            <td><p>
+                                                    <input type="checkbox" id="dienteLingual18" />
+                                                    <label for="dienteLingual18"></label>
+                                                </p></td>
+                                            <td><p>
+                                                    <input type="checkbox" id="dienteVestibular18" />
+                                                    <label for="dienteVestibular18"></label>
+                                                </p></td>
+                                            <td><textarea id="dienteObservacion18" class="materialize-textarea"></textarea></td>
+                                            <td><a href="#">X</a></td>
+                                        </tr>
+                                    </form>
+                                    </tbody>
+                                </table>
+                            </div>
+
+
                         </div>
 
                     </div>
