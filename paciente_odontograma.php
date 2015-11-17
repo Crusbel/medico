@@ -100,7 +100,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente17'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente17'><img src="img/17.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente17' class='dropdown-content'>
@@ -141,7 +141,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente16'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente16'><img src="img/16.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente16' class='dropdown-content'>
@@ -182,7 +182,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente15'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente15'><img src="img/15.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente15' class='dropdown-content'>
@@ -223,7 +223,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente14'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente14'><img src="img/14.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente14' class='dropdown-content'>
@@ -264,7 +264,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente13'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente13'><img src="img/13.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente13' class='dropdown-content'>
@@ -305,7 +305,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente12'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente12'><img src="img/12.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente12' class='dropdown-content'>
@@ -346,7 +346,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente11'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente11'><img src="img/11.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente11' class='dropdown-content'>
@@ -391,7 +391,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente21'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente21'><img src="img/21.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente21' class='dropdown-content'>
@@ -432,7 +432,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente22'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente22'><img src="img/22.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente22' class='dropdown-content'>
@@ -473,7 +473,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente23'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente23'><img src="img/23.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente23' class='dropdown-content'>
@@ -514,7 +514,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente24'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente24'><img src="img/24.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente24' class='dropdown-content'>
@@ -555,7 +555,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente25'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente25'><img src="img/25.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente25' class='dropdown-content'>
@@ -596,7 +596,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente26'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente26'><img src="img/26.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente26' class='dropdown-content'>
@@ -637,7 +637,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente27'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente27'><img src="img/27.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente27' class='dropdown-content'>
@@ -678,7 +678,7 @@
                                         <div class="diente">
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente28'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente28'><img src="img/28.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente28' class='dropdown-content'>
@@ -746,7 +746,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente48'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente48'><img src="img/48.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente48' class='dropdown-content'>
@@ -787,7 +787,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente47'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente47'><img src="img/47.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente47' class='dropdown-content'>
@@ -828,7 +828,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente46'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente46'><img src="img/46.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente46' class='dropdown-content'>
@@ -869,7 +869,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente45'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente45'><img src="img/45.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente45' class='dropdown-content'>
@@ -910,7 +910,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente44'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente44'><img src="img/44.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente44' class='dropdown-content'>
@@ -951,7 +951,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente43'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente43'><img src="img/43.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente43' class='dropdown-content'>
@@ -992,7 +992,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente42'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente42'><img src="img/42.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente42' class='dropdown-content'>
@@ -1033,7 +1033,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente41'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente41'><img src="img/41.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente41' class='dropdown-content'>
@@ -1078,7 +1078,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente31'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente31'><img src="img/31.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente31' class='dropdown-content'>
@@ -1119,7 +1119,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente32'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente32'><img src="img/32.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente32' class='dropdown-content'>
@@ -1160,7 +1160,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente33'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente33'><img src="img/33.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente33' class='dropdown-content'>
@@ -1201,7 +1201,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente34'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente34'><img src="img/34.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente34' class='dropdown-content'>
@@ -1242,7 +1242,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente35'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente35'><img src="img/35.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente35' class='dropdown-content'>
@@ -1283,7 +1283,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente36'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente36'><img src="img/36.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente36' class='dropdown-content'>
@@ -1324,7 +1324,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente37'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente37'><img src="img/37.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente37' class='dropdown-content'>
@@ -1365,7 +1365,7 @@
                                             </div>
                                             <div class="fractura">
                                                 <!-- Dropdown Trigger -->
-                                                <a class='dropdown-button' href='#' data-activates='diente38'><img src="img/18.png" class="responsive-img"> </a>
+                                                <a class='dropdown-button' href='#' data-activates='diente38'><img src="img/38.png" class="responsive-img"> </a>
 
                                                 <!-- Dropdown Structure -->
                                                 <ul id='diente38' class='dropdown-content'>
